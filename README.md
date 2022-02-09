@@ -1,5 +1,5 @@
 # Budger Manager
-A program that has been written during JetBrains Java BackEnd Developer path/
+A program that has been written during JetBrains Java BackEnd Developer path\
 
 In this program, you can:
   1.Add your income
